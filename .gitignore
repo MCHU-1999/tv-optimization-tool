@@ -1,0 +1,8 @@
+tv-cookie.json
+bitget-cookie.json
+chromedriver
+test.py
+chart_data
+output
+*.zip
+.DS_store
